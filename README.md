@@ -1,3 +1,5 @@
+TEST LINK: https://solarworthdemo-website-1.vercel.app/
+
 # SolarWorth (Omi)
 
 **SolarWorth** is a website that answers one question: if I put solar panels on this roof, is that a good use of money?
